@@ -3,7 +3,7 @@
 
 |  客户端  | Android  | Windows  | iOS  |
 |  ----  | ----   | ----  |----  |
-| v2ray  | [v2rayNG](https://www.v2rayfree.eu.org/post/v2rayNg-tutorial/) | [v2rayN](https://www.v2rayfree.eu.org/post/v2rayN-tutorial/) | [OneClick](https://www.v2rayfree.eu.org/post/oneclick/) |
+| v2ray  | [v2rayNG](https://w1.v2free.top/auth/register?code=UOZu) | [v2rayN](https://w1.v2free.top/auth/register?code=UOZu) | [OneClick](https://w1.v2free.top/auth/register?code=UOZu) |
 ## v2rayN使用教程：[点击查看](https://www.v2rayfree.eu.org/post/v2rayN-tutorial/) 
 
 ## 节点导入方法  
@@ -11,9 +11,9 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点订阅  
 - `https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2`  
 ## 更多v2ray节点订阅  
-高性价比机场推荐：[快帆云](https://kfyun.uk)
+高性价比机场推荐：[V2free](https://w1.v2free.top/auth/register?code=UOZu)
 
-### [快帆云](https://kfyun.uk) — 2024 最佳机场之选
+### [V2free]( https://w1.v2free.top/auth/register?code=UOZu) — 2024 最佳机场之选
 
 - 全球众多节点，8K不卡顿。
 - 解锁奈飞、迪士尼、TikTok 、ChatGPT。
